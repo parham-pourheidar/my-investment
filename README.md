@@ -1,16 +1,13 @@
-# my_investment
+# اپلیکیشن my_investment
 
-A new Flutter project.
+## اپلیکیشنی برای نمایش قیمت طلا و دلار 
 
-## Getting Started
+### ویژگی های کلیدی:
 
-This project is a starting point for a Flutter application.
+- دریافت اطلاعات با call کردن API با استفاده از پکیج Dio
+- نمایش قیمت طلا و دلار و میزان تغییرات روزانه آن
+- امکان وارد کردن سرمایه و مشاهده ارزش آن و همچنین تغییرات آن
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### در ادامه چند screenshot از محیط برنامه به شما ارایه میشود:
